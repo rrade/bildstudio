@@ -1,0 +1,7 @@
+Instrukcije za koristenje pokretanje aplikacije.
+Potrebno za pokretanje projekta:
+- Instalirati xampp
+- Ubaciti folder unutar htdocs foldera
+- Pokrenuti apache i mysql 
+- Importovati bazu 
+- U pretrazivacu pokrenuti projekat na localhost/folderProjekta
